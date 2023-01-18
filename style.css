@@ -1,0 +1,12 @@
+body{
+    background-color: lightgrey;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.negyzet{
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+    border: 1px solid grey;
+}
